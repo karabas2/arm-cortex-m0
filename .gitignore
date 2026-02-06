@@ -1,0 +1,7 @@
+.DS_Store
+*.o
+*.elf
+*.map
+*.lst
+.vscode/
+.idea/
